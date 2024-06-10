@@ -1,0 +1,25 @@
+<resources>
+    <string-array name="status_array">
+        <item>All</item>
+        <item>New</item>
+        <item>Used</item>
+    </string-array>
+    <string name="AutoShow">AutoShow</string>
+    <string-array name="type_array">
+        <item>All</item>
+        <item>Sedan</item>
+        <item>Coupe</item>
+        <item>Hatchback</item>
+        <item>Convertible</item>
+    </string-array>
+
+    <string-array name="country_array">
+        <item>All</item>
+        <item>Germany</item>
+        <item>USA</item>
+        <item>Japan</item>
+        <item>Korea</item>
+        <item>Italy</item>
+        <item>France</item>
+    </string-array>
+</resources>
